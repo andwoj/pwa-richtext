@@ -1,6 +1,6 @@
 {
-  "name": "@builder.io/plugin-rich-text",
-  "version": "0.0.1",
+  "name": "richtext",
+  "version": "1.0.0",
   "description": "",
   "keywords": [],
   "entry": "plugin",
