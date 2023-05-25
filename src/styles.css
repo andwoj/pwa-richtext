@@ -1,0 +1,4 @@
+.ql-font-bold,
+.ql-font span[data-value='bold']::before {
+  font-weight: bold;
+}
